@@ -14,3 +14,6 @@ Thumbs.db
 # 环境变量
 .env
 .env.local
+
+# 本地辅助脚本
+push-to-github.bat
