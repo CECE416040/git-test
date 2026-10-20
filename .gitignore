@@ -1,0 +1,16 @@
+# 编译产物与依赖
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+.env.local
